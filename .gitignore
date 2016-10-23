@@ -16,3 +16,4 @@ hs_err_pid*
 # idea stuff
 .idea
 leetcode.iml
+/out
